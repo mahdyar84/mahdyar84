@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning Java, HTML, CSS languages. Linux, computer networks.
 - 📫 How to reach me
 - Linkedin:
-- https://www.linkedin.com/in/mahdyar-moghadas-8ba225338?utm_source=share&utm_campaign=share_via
-&utm_content=profile&utm_medium=ios_ap
+- http://linkedin.com/in/mahdyarmoghadas
 - gmail:
 mahdyarmoghadas@gmail.com
 
